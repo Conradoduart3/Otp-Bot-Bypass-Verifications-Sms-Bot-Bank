@@ -1,0 +1,11 @@
+{
+  "name": "bot",
+  "language": "javascript",
+  "manager": "yarn",
+  "token": "",
+  "prefix": "",
+  "owners": [
+    "seperate ids in with ,",
+    "and incase in quotes"
+  ]
+}
